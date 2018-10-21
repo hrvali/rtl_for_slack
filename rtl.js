@@ -1,4 +1,4 @@
-/***** my code to correct slack fot rtl ****/
+/***** Add RTL support to slack desktop ****/
 function isRTL(text) {
   if (text !== "") {
     if ("اآبپتثجچحخدذرزژسشصضطظعغفقکگلمنوهیؤئيإأةك۰۱۲۳۴۵۶۷۸۹".indexOf(text[0]) > -1) {
