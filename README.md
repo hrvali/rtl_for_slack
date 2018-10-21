@@ -1,5 +1,5 @@
 # rtl_for_slack
-Add RTL support to slack desktop
+Add RTL support to slack desktop.
 It is only tested For version 3.3.3 on windows 10.
 
 
